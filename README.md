@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me :
 - my email addres : Armann38g@gmail.com
+- my telegram id : @ARMAN38sq
 
 <!---
 Hossin-Gh/Hossin-Gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
